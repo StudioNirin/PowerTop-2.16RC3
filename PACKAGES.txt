@@ -1,0 +1,4 @@
+echo "PACKAGE NAME: powertop" > PACKAGES.TXT
+echo "PACKAGE LOCATION: ." >> PACKAGES.TXT
+echo "PACKAGE SIZE: $(stat -c%s powertop-2.16-rc3-x86_64-1.txz)" >> PACKAGES.TXT
+echo "PACKAGE DESCRIPTION: PowerTOP 2.16-rc3 power analysis tool" >> PACKAGES.TXT
