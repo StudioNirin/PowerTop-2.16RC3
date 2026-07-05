@@ -1,5 +1,20 @@
-PACKAGE NAME: powertop-2.16-rc3-x86_64-1.txz
-PACKAGE LOCATION: .
-PACKAGE SIZE (compressed): 10400 K
-PACKAGE DESCRIPTION: 
-Powertop: PowerTOP 2.16-rc3 power analysis tool
+PACKAGE NAME:  powertop-2.16-rc3-x86_64-1.txz
+PACKAGE MIRROR:  https://slackers.it/repository/slackware64-current/
+PACKAGE LOCATION:  ./powertop
+PACKAGE SIZE (compressed):  88 K
+PACKAGE SIZE (uncompressed):  290 K
+PACKAGE REQUIRED:
+PACKAGE CONFLICTS:
+PACKAGE SUGGESTS:
+PACKAGE DESCRIPTION:
+abook: abook (Unix ncurse-based addressbook)
+abook:
+abook: PowerTOP 2.16-rc3 power analysis tool
+abook: 
+abook:
+abook:
+abook:
+abook:
+abook:
+abook:
+abook:
