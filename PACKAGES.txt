@@ -1,5 +1,4 @@
-PACKAGE NAME: powertop
+PACKAGE NAME: powertop-2.16-rc3-x86_64-1.txz
 PACKAGE LOCATION: .
 PACKAGE SIZE (compressed): 10400 K
-PACKAGE DESCRIPTION:
- PowerTOP 2.16-rc3 power analysis tool
+PACKAGE DESCRIPTION: PowerTOP 2.16-rc3 power analysis tool
